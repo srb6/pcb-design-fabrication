@@ -3,7 +3,7 @@
 Successfully completed a **30-hour Non-Formal Course in PCB Design and Fabrication** at Kongu Engineering College, Department of Electronics and Communication Engineering.
 
 ### 🛠️ Practical Learning
-- Schematic capture and circuit design
+- Schematic capture and circuit design using Proteus 
 - PCB layout and routing using Proteus
 - 3D PCB visualization
 - Hardware testing and validation
